@@ -36,4 +36,8 @@ A project made using C programming language to mimic the online quiz conduction
 * User data required for viewing the quiz analytics will be stored in a file named “Quiz_analytics.DAT” .
 
 # Program execution pics
+![c1](https://user-images.githubusercontent.com/104520126/165796779-c86cfe62-3b05-40d5-893c-77987624a33d.png)
+
+![c2](https://user-images.githubusercontent.com/104520126/165796812-0a5d5a7e-1e7b-4f5b-934b-d4b5a12920f2.png)
+
 

@@ -3,6 +3,10 @@ A project made using C programming language to mimic the online quiz conduction
 
 ## Description
 
+The program allows the quiz setter (admin) to create different question banks, allot marks to each question framed and also set the time limit to attempt that question bank. Later any candidate can login with his/her credentials and attempt the quiz. 
+The question paper pattern includes MCQ single correct, MSQ multiple correct, numerical and subjective type questions. Each question has a marking scheme attached to it which includes negative and partial marking similar to IIT JEE-Advanced pattern. 
+Once a candidate attempts the quiz within the time limit (the quiz window automatically closes when time limit is exceeded), a report card of that candidate is shown to him/her and the same is written to a text file. Then the candidate can choose to give feedback which has 5 rating based questions or view the quiz analytics which will show the highest score achieved till that time and name of the person who scored that. After that the candidate can log out of the system. 
+
 ## Steps to run the program
 
 1. Compile and run the program in your IDE.

@@ -1,9 +1,9 @@
 # Online-quiz-conduction
 A project made using C programming language to mimic the online quiz conduction
 
-# Description
+## Description
 
-# Steps to run the program
+## Steps to run the program
 
 1. Compile and run the program in your IDE.
 2. Login as admin by entering the following credentials:
@@ -25,7 +25,7 @@ A project made using C programming language to mimic the online quiz conduction
 5. Choose option ‘4’ to create a feedback form which will be used for receiving feedback from the user.
 6. Exit the program by choosing option ‘7’. Then login as another user to attempt the quiz. Follow the instructions as displayed in the program.
 
-# Name and location of files used in the program
+## Name and location of files used in the program
 
 * User details will be stored in a .dat file named  “ User_details.DAT “ 
 * Question bank 1 will be stored in the form of two files:  “Que_bank_1.DAT“  and  “ Que_bank_1.txt “  .
@@ -35,12 +35,12 @@ A project made using C programming language to mimic the online quiz conduction
 * Feedback questions will be stored in a text file named “Feedback_form.txt” while feedback responses received from the user will be stored in file named      “Feedback_responses.DAT”
 * User data required for viewing the quiz analytics will be stored in a file named “Quiz_analytics.DAT” .
 
-# Program execution pics
+## Program execution pics
 ![c5](https://user-images.githubusercontent.com/104520126/165797162-ed605f08-8326-4de4-8160-d9aa92c94f9c.png)
 ![c6](https://user-images.githubusercontent.com/104520126/165797193-05b3e936-2526-4499-a7a6-0aead899fd25.png)
 ![c8](https://user-images.githubusercontent.com/104520126/165797224-745dc69e-b1cf-44a6-8278-a610c7efa8af.png)
 
-# Program Flowchart
+## Program Flowchart
 ![cf](https://user-images.githubusercontent.com/104520126/165797245-b05a4141-d0d4-4001-b481-a155d87c928d.png)
 
 
